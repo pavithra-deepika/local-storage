@@ -1,5 +1,7 @@
 import React, { useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
+import  '../App.css'
+
 
 function Dashboard() {
   const navigate = useNavigate()
@@ -13,7 +15,9 @@ function Dashboard() {
   },[navigate])
   // !!! used to suppose define , undefine pannama iruntha athu true, false matha use pannurom
   return (
-    <div>Welcome to User</div>
+    <div>
+      <h1> Welcome to user</h1>
+      </div>
   )
 }
 
