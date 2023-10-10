@@ -11,7 +11,7 @@
 
 ## Application shots
 ![image1](https://github.com/pavithra-deepika/local-storage/blob/main/images/image1.png)
-![image2](https://github.com/pavithra-deepika/local-storage/blob/main/images/image1.png)
+![image2](https://github.com/pavithra-deepika/local-storage/blob/main/images/image2.png)
 
 ## Learnt
  - LocalStorage is a web storage object that allows JavaScript sites and apps to keep key-value pairs in a web browser with no expiration date.
